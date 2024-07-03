@@ -45,7 +45,7 @@
 
 ## Sobre el Proyecto
 
-Esta web es una web realizada en HTML y CSS puro que incluyse varias librerías de JS para realizar las distintas funcionalidades. Consta de 4 páginas distintas:
+Esta web es una web realizada en HTML y CSS puro que incluye varias librerías de JS para realizar las distintas funcionalidades. Consta de 4 páginas distintas:
 - Página **HOME**: En esta páginas leerás un resumen de lo incluido en la web además de conocer a la agencia.
 - Página **DESTINATIONS**: Conoce los distintos destinos que ofrecemos en la agencia y sus principales monumentos y actividades.
 - Página **JOURNEYS**: Aquí se te ofrecen distintos planes de viajes por los distintos destinos disponibles.
